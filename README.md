@@ -1,16 +1,13 @@
 # login_dribble_challenge
 
-A new Flutter login application.
+A new Flutter login application based on https://dribbble.com/shots/2836641-FOOT-Travel-guide-sign-in-page.
 
-## Getting Started
+## The Desired Screen
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## The Implemented Screen
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## The Flutter Concepts
+1. StateFull Widget
+2. ClipPath and CustomClipper
+3. Animations
